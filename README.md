@@ -1,4 +1,4 @@
-# Gyutae Min
+# 민규태 / Gyutae Min
 
 백엔드 개발자가 되고싶은 민규태입니다.
 
